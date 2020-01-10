@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badlife.csharp", "badlife\badlife.csharp.csproj", "{DD38AA74-9BE6-4DFF-876D-55F57E1A59F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{315C09F8-DBD1-4368-BFD5-C7DD6A42D836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badlife.csharp.tests", "ConwayTests\badlife.csharp.tests.csproj", "{A5C17542-CDE8-4FB7-9A91-07F8C39E5FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD38AA74-9BE6-4DFF-876D-55F57E1A59F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD38AA74-9BE6-4DFF-876D-55F57E1A59F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD38AA74-9BE6-4DFF-876D-55F57E1A59F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD38AA74-9BE6-4DFF-876D-55F57E1A59F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C17542-CDE8-4FB7-9A91-07F8C39E5FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C17542-CDE8-4FB7-9A91-07F8C39E5FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C17542-CDE8-4FB7-9A91-07F8C39E5FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C17542-CDE8-4FB7-9A91-07F8C39E5FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C592C35-6A02-4062-BDB6-1B160C222DAC}
+	EndGlobalSection
+EndGlobal
